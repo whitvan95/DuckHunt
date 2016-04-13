@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 61213a91dccecce4b9c2ccb633a34da9
-timeCreated: 1460518616
+timeCreated: 1460521435
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -35,6 +35,8 @@ TextureImporter:
     21300056: NES - Duck Hunt - Backgrounds_28
     21300058: NES - Duck Hunt - Backgrounds_29
     21300060: NES - Duck Hunt - Backgrounds_30
+    21300062: NES - Duck Hunt - Backgrounds_31
+    21300064: NES - Duck Hunt - Backgrounds_32
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -101,66 +103,6 @@ TextureImporter:
         serializedVersion: 2
         x: 256
         y: 272
-        width: 256
-        height: 240
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -128, y: 120}
-        - {x: -128, y: -120}
-        - {x: 128, y: -120}
-        - {x: 128, y: 120}
-    - name: NES - Duck Hunt - Backgrounds_2
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 272
-        width: 256
-        height: 240
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -128, y: 120}
-        - {x: -128, y: -120}
-        - {x: 128, y: -120}
-        - {x: 128, y: 120}
-    - name: NES - Duck Hunt - Backgrounds_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 256
-        height: 240
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -128, y: 120}
-        - {x: -128, y: -120}
-        - {x: 128, y: -120}
-        - {x: 128, y: 120}
-    - name: NES - Duck Hunt - Backgrounds_4
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 16
-        width: 256
-        height: 240
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -128, y: 120}
-        - {x: -128, y: -120}
-        - {x: 128, y: -120}
-        - {x: 128, y: 120}
-    - name: NES - Duck Hunt - Backgrounds_5
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 16
         width: 256
         height: 240
       alignment: 0
@@ -446,6 +388,36 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+    - name: NES - Duck Hunt - Backgrounds_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 256
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 41.5}
+        - {x: -128, y: -41.5}
+        - {x: 128, y: -41.5}
+        - {x: 128, y: 41.5}
+    - name: NES - Duck Hunt - Backgrounds_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 273
+        width: 256
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 41.5}
+        - {x: -128, y: -41.5}
+        - {x: 128, y: -41.5}
+        - {x: 128, y: 41.5}
     outline: []
   spritePackingTag: 
   userData: 
